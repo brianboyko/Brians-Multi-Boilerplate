@@ -27,8 +27,7 @@
     "url": "https://github.com/brianboyko/Brians-Multi-Boilerplate/issues"
   },
   "homepage": "https://github.com/brianboyko/Brians-Multi-Boilerplate",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "babel-core": "^6.0.20",
     "babel-eslint": "^6.1.0",
@@ -38,10 +37,11 @@
     "babel-preset-stage-0": "^6.0.15",
     "eslint": "^2.13.1",
     "eslint-plugin-react": "^5.2.2",
+    "lodash": "^4.13.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
     "react-hot-loader": "^1.3.0",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.1"
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0"
   }
 }
